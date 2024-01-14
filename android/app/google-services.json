@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "943453699075",
+    "project_id": "road-services-1509c",
+    "storage_bucket": "road-services-1509c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943453699075:android:66d806c59270f8371fe236",
+        "android_client_info": {
+          "package_name": "com.example.road_servoces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943453699075-c7jndmf7v2qjv9lp5rban3o6fd482fqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.road_servoces",
+            "certificate_hash": "fc8780e7c8246d0351fba39bbc6b30886f38e0a4"
+          }
+        },
+        {
+          "client_id": "943453699075-6jrtdhqep6e1jp7dvh724jj53vcanlo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDer3N-o0-iOtFIiyUMYgzPTg--o6dwuBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943453699075-6jrtdhqep6e1jp7dvh724jj53vcanlo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
